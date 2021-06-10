@@ -1,2 +1,6 @@
 Today is great!
+<<<<<<< HEAD
 I add only one word.
+=======
+I  have added one more sentence to fix conflict.
+>>>>>>> master
